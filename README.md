@@ -5,7 +5,7 @@ another repository
 
 int main()
 {
-  prientf("hello world");
+  printf("hello world");
   
   return 0;
   }
